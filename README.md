@@ -76,13 +76,13 @@ diffpaircheck/
 
 ## Installation
 
-     Make sure you have Python 3.6+ installed. Then install the required package:
+Make sure you have Python 3.6+ installed. Then install the required package:
 
-     ```bash
-     pip install -r requirements.txt
-     ```
+```bash
+pip install -r requirements.txt
+```
 
-     > **Note:** CustomTkinter supports dark mode and is required for this application.
+> **Note:** CustomTkinter supports dark mode and is required for this application.
 
 ## Usage
 
